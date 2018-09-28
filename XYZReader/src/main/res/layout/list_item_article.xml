@@ -28,7 +28,7 @@
 
         <TextView
             android:id="@+id/article_title"
-            style="@style/TextAppearance.AppCompat.Subhead"
+            style="@style/Base.TextAppearance.AppCompat.Title"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:paddingLeft="16dp"
@@ -41,7 +41,7 @@
 
         <TextView
             android:id="@+id/article_subtitle"
-            style="@style/TextAppearance.AppCompat.Body1"
+            style="@style/Base.TextAppearance.AppCompat.Subhead"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:paddingLeft="16dp"

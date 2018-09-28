@@ -150,7 +150,7 @@ public class ArticleDetailFragment extends Fragment implements
             }
         });
 
-        bindViews();
+        //bindViews();  // Removed Per Suggestion
         updateStatusBar();
         return mRootView;
     }
